@@ -1,0 +1,22 @@
+{
+    "name": "MMM-HallSensor",
+    "version": "1.0.0",
+    "description": "MagicMirror module for detecting magnetic presence via a KY-003 Hall effect sensor on GPIO",
+    "main": "node_helper.js",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jiromusik/MMM-HallSensor"
+    },
+    "keywords": [
+        "MagicMirror",
+        "hall-sensor",
+        "KY-003",
+        "GPIO",
+        "raspberry-pi",
+        "smart-mirror"
+    ],
+    "dependencies": {
+        "mqtt": "^5.15.0"
+    }
+}
